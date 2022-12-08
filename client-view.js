@@ -11,7 +11,7 @@ var signatureEndpoint = 'https://yckfd07uph.execute-api.us-east-1.amazonaws.com/
 var sdkKey = 'PfPapLCavJc2ZBjMkssNeqboLdBOpoAEXQTc'
 var meetingNumber = '99617077912'
 var role = 1
-var leaveUrl = 'https://zoom.us'
+var leaveUrl = 'https://zoom.us/meeting/tJUufuqorzgoGdUQDaDc5zm-STxdbXHY59VB/postsurvey?tk=h_r0kCufIz56_H6nWdQLVK50n90v5sLSwmW6WQZn7ng.DQMAAAAVR3K17xZLbzBrSG9rVFNrdTV6U1ctRlNkSDBBF2tlbGx5Lm1hZ2FvYXlAZ21haWwuY29tCktlbE1hZ2FvYXkAAAAAAAAAAAAAAAAAAAAAAAAYdzcrRFpLYzhUVmFTb2dPU0p2dHhDUT09AA'
 var userName = 'UserJS'
 var userEmail = ''
 var passWord = '123'
