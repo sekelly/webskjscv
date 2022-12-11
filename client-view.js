@@ -12,9 +12,9 @@ var sdkKey = 'https://ybami8c770.execute-api.us-east-1.amazonaws.com/latest'
 var meetingNumber = '99223103673'
 var role = 1
 var leaveUrl = 'https://zoom.us/meeting/tJ0vdeqprjgsHddmdQLBrVkBbjFYs3YyXnRj/postsurvey?tk=JrE89kjj9zfg3UyB3AkUGEzQgI4ZIAGQSNrExqtrB7U.DQMAAAAXGihouRYtSllvZXp5S1RfYU5oMENjSTh2SWxRFW1hZG1heEBrZWxtYWdhb2F5LmNvbQdNYWQgTWF4AAAAAAAAAAAAAAAAAAAAAAAAGFV6K3NQTGRjUXpxaW1CdUV2WTJiaGc9PQA'
-var userName = 'UserJS'
+var userName = 'ClientView'
 var userEmail = ''
-var passWord = '123'
+var passWord = ''
 // pass in the registrant's token if your meeting or webinar requires registration. More info here:
 // Meetings: https://marketplace.zoom.us/docs/sdk/native-sdks/web/client-view/meetings#join-meeting-with-registration-required
 // Webinars: https://marketplace.zoom.us/docs/sdk/native-sdks/web/client-view/webinars#join-webinar-with-registration-required
