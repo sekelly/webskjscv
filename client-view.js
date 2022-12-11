@@ -7,11 +7,11 @@ ZoomMtg.i18n.load('en-US')
 ZoomMtg.i18n.reload('en-US')
 
 // setup your signature endpoint here: https://github.com/zoom/meetingsdk-sample-signature-node.js
-var signatureEndpoint = 'https://yckfd07uph.execute-api.us-east-1.amazonaws.com/latest'
-var sdkKey = 'PfPapLCavJc2ZBjMkssNeqboLdBOpoAEXQTc'
-var meetingNumber = '91393013231'
+var signatureEndpoint = 'https://ybami8c770.execute-api.us-east-1.amazonaws.com/latest'
+var sdkKey = 'https://ybami8c770.execute-api.us-east-1.amazonaws.com/latest'
+var meetingNumber = '99223103673'
 var role = 1
-var leaveUrl = 'https://zoom.us/meeting/tJUufuqorzgoGdUQDaDc5zm-STxdbXHY59VB/postsurvey?tk=h_r0kCufIz56_H6nWdQLVK50n90v5sLSwmW6WQZn7ng.DQMAAAAVR3K17xZLbzBrSG9rVFNrdTV6U1ctRlNkSDBBF2tlbGx5Lm1hZ2FvYXlAZ21haWwuY29tCktlbE1hZ2FvYXkAAAAAAAAAAAAAAAAAAAAAAAAYdzcrRFpLYzhUVmFTb2dPU0p2dHhDUT09AA'
+var leaveUrl = 'https://zoom.us/meeting/tJ0vdeqprjgsHddmdQLBrVkBbjFYs3YyXnRj/postsurvey?tk=JrE89kjj9zfg3UyB3AkUGEzQgI4ZIAGQSNrExqtrB7U.DQMAAAAXGihouRYtSllvZXp5S1RfYU5oMENjSTh2SWxRFW1hZG1heEBrZWxtYWdhb2F5LmNvbQdNYWQgTWF4AAAAAAAAAAAAAAAAAAAAAAAAGFV6K3NQTGRjUXpxaW1CdUV2WTJiaGc9PQA'
 var userName = 'UserJS'
 var userEmail = ''
 var passWord = '123'
