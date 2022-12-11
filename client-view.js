@@ -8,7 +8,7 @@ ZoomMtg.i18n.reload('en-US')
 
 // setup your signature endpoint here: https://github.com/zoom/meetingsdk-sample-signature-node.js
 var signatureEndpoint = 'https://ybami8c770.execute-api.us-east-1.amazonaws.com/latest'
-var sdkKey = 'https://ybami8c770.execute-api.us-east-1.amazonaws.com/latest'
+var sdkKey = 'XgkIvvHHyAK9na3ZPQVuB8fSU8T3kKghPSWR'
 var meetingNumber = '99223103673'
 var role = 1
 var leaveUrl = 'https://zoom.us/meeting/tJ0vdeqprjgsHddmdQLBrVkBbjFYs3YyXnRj/postsurvey?tk=JrE89kjj9zfg3UyB3AkUGEzQgI4ZIAGQSNrExqtrB7U.DQMAAAAXGihouRYtSllvZXp5S1RfYU5oMENjSTh2SWxRFW1hZG1heEBrZWxtYWdhb2F5LmNvbQdNYWQgTWF4AAAAAAAAAAAAAAAAAAAAAAAAGFV6K3NQTGRjUXpxaW1CdUV2WTJiaGc9PQA'
