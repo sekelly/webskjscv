@@ -10,7 +10,7 @@ ZoomMtg.i18n.reload('en-US')
 var signatureEndpoint = 'https://ybami8c770.execute-api.us-east-1.amazonaws.com/latest'
 var sdkKey = 'EStDoqGOS6NYeFGHIX_qA'
 var meetingNumber = '97150709574'
-var role = 1
+var role = 0
 var leaveUrl = ''
 var userName = 'ClientView'
 var userEmail = ''
