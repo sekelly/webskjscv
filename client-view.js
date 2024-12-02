@@ -11,6 +11,7 @@ var signatureEndpoint = 'https://ybami8c770.execute-api.us-east-1.amazonaws.com/
 var sdkKey = 'EStDoqGOS6NYeFGHIX_qA'
 var meetingNumber = '97150709574'
 var role = 1
+var disablePreview = 'true'
 var leaveUrl = 'https://sekelly.github.io/webskjscv/'
 var userName = 'ClientView'
 var userEmail = 'client@kelkel.com'
