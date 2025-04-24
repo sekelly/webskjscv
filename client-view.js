@@ -1,4 +1,4 @@
-ZoomMtg.setZoomJSLib('https://source.zoom.us/3.11.0/lib', '/av')
+ZoomMtg.setZoomJSLib('https://source.zoom.us/3.13.0/lib', '/av')
 
 ZoomMtg.preLoadWasm()
 ZoomMtg.prepareWebSDK()
