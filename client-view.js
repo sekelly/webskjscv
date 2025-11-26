@@ -13,8 +13,8 @@ var meetingNumber = '97150709574'
 var role = 1
 var disablePreview = 'true'
 var leaveUrl = 'https://sekelly.github.io/webskjscv/'
-var userName = 'ClientView'
-var userEmail = 'client@kelkel.com'
+var userName = 'ClientView Test Brandon'
+var userEmail = 'brandon.herlong+marketplace@gmail.com'
 var passWord = '123'
 // pass in the registrant's token if your meeting or webinar requires registration. More info here:
 // Meetings: https://marketplace.zoom.us/docs/sdk/native-sdks/web/client-view/meetings#join-meeting-with-registration-required
