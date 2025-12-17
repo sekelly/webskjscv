@@ -7,7 +7,7 @@ ZoomMtg.i18n.load('en-US')
 ZoomMtg.i18n.reload('en-US')
 
 // setup your signature endpoint here: https://github.com/zoom/meetingsdk-sample-signature-node.js
-var signatureEndpoint = 'https://ybami8c770.execute-api.us-east-1.amazonaws.com/latest'
+var signatureEndpoint = 'https://meetingsdk-auth-endpoint-sample-production-21b6.up.railway.app'
 var sdkKey = 'EStDoqGOS6NYeFGHIX_qA'
 var meetingNumber = '97150709574'
 var role = 1
