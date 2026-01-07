@@ -13,7 +13,7 @@ var meetingNumber = '97150709574'
 var role = 1
 var disablePreview = 'true'
 var leaveUrl = 'https://sekelly.github.io/webskjscv/'
-var userName = 'ClientView Test Brandon'
+var userName = 'ClientView'
 var userEmail = 'brandon.herlong+marketplace@gmail.com'
 var passWord = '123'
 // pass in the registrant's token if your meeting or webinar requires registration. More info here:
